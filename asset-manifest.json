@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Microtaski-MAP/static/css/main.6f30ddfc.chunk.css",
+    "main.js": "/Microtaski-MAP/static/js/main.75408936.chunk.js",
+    "main.js.map": "/Microtaski-MAP/static/js/main.75408936.chunk.js.map",
+    "runtime-main.js": "/Microtaski-MAP/static/js/runtime-main.b8f54283.js",
+    "runtime-main.js.map": "/Microtaski-MAP/static/js/runtime-main.b8f54283.js.map",
+    "static/js/2.c4a9203b.chunk.js": "/Microtaski-MAP/static/js/2.c4a9203b.chunk.js",
+    "static/js/2.c4a9203b.chunk.js.map": "/Microtaski-MAP/static/js/2.c4a9203b.chunk.js.map",
+    "index.html": "/Microtaski-MAP/index.html",
+    "precache-manifest.7d933aea63eade3df09090ac9c1d1dd2.js": "/Microtaski-MAP/precache-manifest.7d933aea63eade3df09090ac9c1d1dd2.js",
+    "service-worker.js": "/Microtaski-MAP/service-worker.js",
+    "static/css/main.6f30ddfc.chunk.css.map": "/Microtaski-MAP/static/css/main.6f30ddfc.chunk.css.map",
+    "static/js/2.c4a9203b.chunk.js.LICENSE.txt": "/Microtaski-MAP/static/js/2.c4a9203b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8f54283.js",
+    "static/js/2.c4a9203b.chunk.js",
+    "static/css/main.6f30ddfc.chunk.css",
+    "static/js/main.75408936.chunk.js"
+  ]
+}
